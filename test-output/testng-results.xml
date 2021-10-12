@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13281" started-at="2021-10-12T11:34:39Z" finished-at="2021-10-12T11:34:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13281" started-at="2021-10-12T11:34:39Z" finished-at="2021-10-12T11:34:52Z">
+      <class name="org.test.Kriyatech_Interview.Scenario2">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.test.Kriyatech_Interview.Scenario2@5dd6264]" name="launchBrowser" is-config="true" duration-ms="1524" started-at="2021-10-12T11:34:39Z" finished-at="2021-10-12T11:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="startDate()[pri:0, instance:org.test.Kriyatech_Interview.Scenario2@5dd6264]" name="startDate" is-config="true" duration-ms="0" started-at="2021-10-12T11:34:40Z" finished-at="2021-10-12T11:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDate -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:org.test.Kriyatech_Interview.Scenario2@5dd6264]" name="TestCase1" duration-ms="4057" started-at="2021-10-12T11:34:40Z" finished-at="2021-10-12T11:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="startDate()[pri:0, instance:org.test.Kriyatech_Interview.Scenario2@5dd6264]" name="startDate" is-config="true" duration-ms="0" started-at="2021-10-12T11:34:44Z" finished-at="2021-10-12T11:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDate -->
+        <test-method status="PASS" signature="endDate()[pri:0, instance:org.test.Kriyatech_Interview.Scenario2@5dd6264]" name="endDate" is-config="true" duration-ms="0" started-at="2021-10-12T11:34:44Z" finished-at="2021-10-12T11:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endDate -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:org.test.Kriyatech_Interview.Scenario2@5dd6264]" name="TestCase2" duration-ms="7685" started-at="2021-10-12T11:34:44Z" finished-at="2021-10-12T11:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="endDate()[pri:0, instance:org.test.Kriyatech_Interview.Scenario2@5dd6264]" name="endDate" is-config="true" duration-ms="0" started-at="2021-10-12T11:34:52Z" finished-at="2021-10-12T11:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endDate -->
+      </class> <!-- org.test.Kriyatech_Interview.Scenario2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
